@@ -23,10 +23,8 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
-
-
+<hr />
 <h3 align="center"><b> Side Project </b></h3>
-</br>
 <p align="center">
   <a href="https://jxlove2020.github.io/map_site/">지도 사이트 (공공데이터 API)</a><br>
   <a href="https://jxlove2020.github.io/momentum-clone/">모멘텀 클론</a><br>
