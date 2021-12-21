@@ -28,7 +28,7 @@
 
 <p align="left">
 
-| | |
+| LINK | LINK |
 | :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
 | <a href="https://jxlove2020.github.io/map_site/">지도 사이트 (공공데이터 API)</a> | <a href="https://jxlove2020.github.io/momentum-clone/">모멘텀 클론</a>              |
 | <a href="https://jxlove2020.github.io/web_transform3d/">파노라마 뷰</a>           | <a href="https://jxlove2020.github.io/pwa_youtubeclone/">유튜브 클론</a>            |
