@@ -4,9 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxlove2020%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="center"><b> Tech Stack </b></h3>
-</br>
-<p align="center">
+## Tech Stack
+
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> &nbsp
@@ -23,18 +23,24 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
-<hr />
-<h3 align="center"><b> Side Project </b></h3>
-<p align="center">
-  <a href="https://jxlove2020.github.io/map_site/">지도 사이트 (공공데이터 API)</a><br>
-  <a href="https://jxlove2020.github.io/momentum-clone/">모멘텀 클론</a><br>
-  <a href="https://jxlove2020.github.io/web_transform3d/">파노라마 뷰</a><br>
-  <a href="https://jxlove2020.github.io/pwa_youtubeclone/">유튜브 클론</a><br>
-  <a href="https://jxlove2020.github.io/pwa_webgallery/">웹 갤러리 페이지</a><br>
-  <a href="https://jxlove2020.github.io/movie-app/">영화 정보 제공(해외 Open API)</a><br>
-  <a href="https://jxlove2020.github.io/kokoa-clone/">코코아 클론(Front-end)</a><br>
-  <a href="https://jxlove2020.github.io/hill/">캔버스 활용(움직이는 이미지)</a><br>
+
+## Side Project
+
+<p align="left">
+
+| Link                                                                              | Link                                                                                |
+| :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| <a href="https://jxlove2020.github.io/map_site/">지도 사이트 (공공데이터 API)</a> | <a href="https://jxlove2020.github.io/momentum-clone/">모멘텀 클론</a>              |
+| <a href="https://jxlove2020.github.io/web_transform3d/">파노라마 뷰</a>           | <a href="https://jxlove2020.github.io/pwa_youtubeclone/">유튜브 클론</a>            |
+| <a href="https://jxlove2020.github.io/pwa_webgallery/">웹 갤러리 페이지</a>       | <a href="https://jxlove2020.github.io/movie-app/">영화 정보 제공(해외 Open API)</a> |
+| <a href="https://jxlove2020.github.io/kokoa-clone/">코코아 클론(Front-end)</a>    | <a href="https://jxlove2020.github.io/hill/">캔버스 활용(움직이는 이미지)</a>       |
+
 </p>
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxlove2020)](https://github.com/jxlove2020/github-readme-stats)            
+## Github Stats
 
+<p align="center">
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxlove2020)](https://github.com/jxlove2020/github-readme-stats)
+
+</p>
