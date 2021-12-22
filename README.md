@@ -33,7 +33,7 @@
 | <a href="https://jxlove2020.github.io/map_site/" target="_blank">지도 사이트 (공공데이터 API)</a> | <a href="https://jxlove2020.github.io/momentum-clone/" target="_blank">모멘텀 클론</a>  |
 | <a href="https://jxlove2020.github.io/web_transform3D/" target="_blank">파노라마 뷰</a>           | <a href="https://jxlove2020.github.io/pwa_youtubeClone/" target="_blank">유튜브 클론</a>            |
 | <a href="https://jxlove2020.github.io/pwa_webGallery/" target="_blank">웹 갤러리 페이지</a>       | <a href="https://jxlove2020.github.io/movie-app/#/" target="_blank">영화 정보 제공(해외 Open API)</a> |
-| <a href="https://jxlove2020.github.io/kokoa-clone/" target="_blank">코코아 클론(Front-end)</a>    | <a href="https://jxlove2020.github.io/hill/" target="_blank">캔버스 활용(움직이는 이미지)</a>       |
+| <a href="https://jxlove2020.github.io/blog/" target="_blank">블로그</a>    | <a href="https://jxlove2020.github.io/hill/" target="_blank">캔버스 활용(움직이는 이미지)</a>       |
 
 </p>
 
